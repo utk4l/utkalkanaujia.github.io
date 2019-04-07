@@ -1,0 +1,78 @@
+.btn-blog {
+  border: 1px solid #f57d00;
+  color: #f57d00;
+  background-color: transparent;
+}
+.btn-blog:hover,
+.btn-blog:focus {
+  border: 1px solid #f57d00;
+  outline: none;
+  color: black;
+  background-color: #f57d00;
+}
+
+.btn-fb {
+    border: 1px solid #3b5998;
+  color: #3b5998;
+  background-color: transparent;
+}
+.btn-fb:hover,
+.btn-fb:focus {
+  border: 1px solid #3b5998;
+  outline: none;
+  color: black;
+  background-color: #3b5998;
+}
+
+.btn-tw {
+  border: 1px solid #0084b4;
+  color: #0084b4;
+  background-color: transparent;
+}
+.btn-tw:hover,
+.btn-tw:focus {
+  border: 1px solid #0084b4;
+  outline: none;
+  color: black;
+  background-color: #0084b4;
+}
+
+.btn-gb {
+  border: 1px solid #6e5494;
+  color: #6e5494;
+  background-color: transparent;
+}
+.btn-gb:hover,
+.btn-gb:focus {
+  border: 1px solid #6e5494;
+  outline: none;
+  color: black;
+  background-color: #6e5494;
+}
+
+.side{
+  text-align: right;
+}
+
+.quote{
+  font-size: 70px;
+}
+
+.full{
+  width: 100%;
+  height: 100%;
+}
+
+.small {
+            text-transform: lowercase !important;
+        }
+
+        ::-moz-selection {
+            background: black;
+            color: lime;
+        }
+
+        ::selection {
+            background: black;
+            color: lime;
+        }
